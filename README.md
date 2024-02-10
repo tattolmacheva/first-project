@@ -39,3 +39,4 @@
 
     ```bash
     python main.ру
+    ```
