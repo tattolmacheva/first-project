@@ -40,3 +40,4 @@
     ```bash
     python main.ру
     ```
+
