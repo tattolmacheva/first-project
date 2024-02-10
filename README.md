@@ -40,5 +40,3 @@
     ```bash
     python main.py
     ```
-
-2. Что-то.
